@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AvnitShaw<br>👀 I’m interested in AI projects.<br>🌱 I’m currently learning Python<br>📫 You can reach me on <br>-https://github.com/AvnitShaw<br>-https://x.com/AvnitShaw0100
+👋 Hi, I’m @AvnitShaw<br>👀 I’m interested in AI projects.<br>🌱 I’m currently learning React<br>📫 You can reach me on <br>-https://github.com/AvnitShaw<br>-https://x.com/AvnitShaw0100
 
 
 ## 🌐 Socials:
